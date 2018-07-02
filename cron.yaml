@@ -1,0 +1,5 @@
+cron:
+- description: "Publish Notification"
+  url: /v1/lead/cron/
+#  target: beta
+  schedule: every 1 mins
